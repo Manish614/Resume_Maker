@@ -1,9 +1,9 @@
-# 📝 Form2Resume
+# 📝 Resume_Maker
 
-[Live Website 🌐](https://form2resume.netlify.app/)  
-[GitHub Repo 💻](https://github.com/geeta614/resume-builder)
+[Live Website 🌐](https://resumexmaker.netlify.app/)  
+[GitHub Repo 💻](https://github.com/Manish614/Resume_Maker)
 
-Form2Resume is a beginner-friendly, form-based Resume Builder that helps users generate **ATS-friendly**, professional resumes with ease. It allows users to fill out a simple form and instantly preview and download a PDF version of their resume.
+Resume_Maker is a beginner-friendly, form-based Resume Maker that helps users generate **ATS-friendly**, professional resumes with ease. It allows users to fill out a simple form and instantly preview and download a PDF version of their resume.
 
 ---
 
@@ -31,19 +31,10 @@ Form2Resume is a beginner-friendly, form-based Resume Builder that helps users g
 
 ---
 
-## 📷 Screenshots
-
-![image](https://github.com/user-attachments/assets/abc267ab-4815-4b9a-a764-6bc99f6c180c)
-
-![image](https://github.com/user-attachments/assets/ddab9b93-1796-4fc9-9820-708d27fe349c)
-
-![image](https://github.com/user-attachments/assets/c33559ab-1528-4f3e-af5e-7f69080d0e8f)
-
----
 
 ## 🔧 How to Use
 
-1. Visit the live site: [form2resume.netlify.app](https://form2resume.netlify.app/)
+1. Visit the live site: [resumexmaker.netlify.app](https://resumexmaker.netlify.app/)
 2. Fill out the resume form fields.
 3. Click "Generate Preview" to see your resume.
 4. Click "Download PDF" to save it.
@@ -52,7 +43,7 @@ Form2Resume is a beginner-friendly, form-based Resume Builder that helps users g
 
 ## 🤝 Connect With Developer
 
-- [LinkedIn](https://www.linkedin.com/in/geeta-garg614/) 
+- [LinkedIn](https://www.linkedin.com/in/manish-vedwal-0324b31a0/) 
 
 ---
 
